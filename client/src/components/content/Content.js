@@ -5,16 +5,9 @@ import Image from 'react-bootstrap/Image'
 class Content extends Component{
    constructor(){
        super()
-    this.gitClick=this.gitClick.bind(this)
    }
    
-   async gitClick (e){
-       e.preventDefault();
-       
-       fetch("https://github.com/MarvinLara41?tab=repositories")
-        console.log("working");
-        
-   }
+  
    
    render(){
 
@@ -29,7 +22,7 @@ class Content extends Component{
                     <div className="links"> 
                    <a href="https://github.com/MarvinLara41?tab=repositories">
                     <button className="git"><h4>GitHub</h4>
-                    <img src="/images/github.png"/>
+                    <img src="/images/github.png" alt="github"/>
                     </button>
                     </a>
                     <a href="https://docs.google.com/document/d/1JmiAdZbprHIwAqzuJB1N3w7Fe3rhv2wuVF2jerhAoOI/edit?usp=sharing">
@@ -43,12 +36,12 @@ class Content extends Component{
                 <br />
 
         <div className="images">    
-          <Image src="/images/mongodb.jpg" roundedCircle />
-          <Image src="/images/express.png" roundedCircle />
-          <Image src="/images/react.jpg" roundedCircle />
-          <Image src="/images/node.jpg" roundedCircle />
-          <Image src="/images/js.jpg" roundedCircle />
-          <Image src="/images/mysql.jpg" roundedCircle />
+          <Image src="/images/mongodb.jpg" alt="mongo" roundedCircle />
+          <Image src="/images/express.png" alt="express" roundedCircle />
+          <Image src="/images/react.jpg" alt="react" roundedCircle />
+          <Image src="/images/node.jpg" alt="node" roundedCircle />
+          <Image src="/images/js.jpg" alt="js" roundedCircle />
+          <Image src="/images/mysql.jpg" alt="mysql" roundedCircle />
         </div>
         </div>
     )
