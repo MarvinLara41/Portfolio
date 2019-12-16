@@ -2,12 +2,13 @@
   text-align: center;
 }
 
-body{
-  background-image: url(/images/bgIMG.png);
-}
-
 .App-link {
   color: #61dafb;
+}
+
+body{
+  background-image: url(/images/everest.png);
+  background-size: cover;
 }
 
 

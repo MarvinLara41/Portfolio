@@ -1,0 +1,54 @@
+.section{
+    max-width: 80vw;
+    margin: auto;
+    top: 55px;
+}
+
+.resume{
+    margin: auto;
+    width: 40vw;
+}
+
+.summary{
+    width: 40vw;
+    margin: auto;
+}
+
+.tech{
+    width: 20vw;
+   position: absolute;
+    top: 65px;
+    left: 100px;
+}
+
+.work{
+    width: 40vw;
+    height: 40vh;
+    margin: auto;
+    overflow: auto;
+    background-color: white;
+    opacity: 90%;
+}
+
+
+.projects{
+    width: 20vw;
+    position: absolute;
+   left: 100px;
+   overflow: auto;
+    bottom: 85px;
+}
+
+.education{
+    width: 21vw;
+    position: absolute;
+    top: 65px;
+    right: 90px;
+}
+
+.file{
+    width: 20vw;
+    position: absolute;
+    bottom: 250px;
+    right: 100px;
+}

@@ -1,5 +1,5 @@
 body{
-    color: white;
+  background-color: white;
 }
 
 
@@ -8,20 +8,12 @@ body{
     margin: auto;
 }
 
-.links{
-    background-position: center;
-}
-
 img {
     height: 200px;
     width: 185px;
     padding: 15px;
-}
-
-
-
-.links{
-    padding: 3%;
+    opacity: 85%;
+    backface-visibility: visible;
 }
 
 .images{ 
@@ -32,17 +24,19 @@ img {
     bottom:0;
     right:0;
     align-content: center;
-    opacity: 70%;
 }
 
-.h3{
+.para{
+    margin: auto;
     font-family: "Times New Roman", Times, serif;
-    color:white;
-
+    color: black;
+    font-size: 22px;
+    align-items: center;
+    width: 40vw;
+    height: 48vh;
+    background-size: cover;
 }
 
-.h4{
-    font-family: "Times New Roman", Times, serif;
-    color: white;
-}
+
+
 

@@ -1,0 +1,22 @@
+.about{
+    width: 70vw;
+    margin: auto;
+}
+
+.me{
+    width: 40vw;
+    margin: auto;
+    
+}
+
+
+
+img{
+    height: 350px;
+    width: 400px;
+    margin: auto;
+    position: absolute;
+    padding: 15px;
+    top:100px;
+    left: 150px;
+}
