@@ -4,6 +4,7 @@ import './style.css';
 
 function Resume() {
     return(
+        <div className="grid"> 
         <div className="section">
         <div className="resume">
            <h1 className="h1"> Marvin Lara</h1>
@@ -24,8 +25,8 @@ function Resume() {
                 </div>
 
                 <div className="tech">
-                    <h2 className="techH2">Technical Skills</h2>
-                    <p className="techP">
+                    <h2>Technical Skills</h2>
+                    <p>
                         <ul>
                             <il><b>Lanuage:</b> Javascript  </il>
                             <br />
@@ -106,6 +107,7 @@ function Resume() {
                         <a href="https://docs.google.com/document/d/1JmiAdZbprHIwAqzuJB1N3w7Fe3rhv2wuVF2jerhAoOI/edit?usp=sharing">Click Here</a>
                 </div>
             </div>
+        </div>
        
     )
 }

@@ -1,3 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto;
+    grid-auto-rows: auto;
+
+}
+.grid > div{
+    padding: 1em;
+}
+
 .section{
     max-width: 80vw;
     margin: auto;
@@ -37,6 +47,7 @@
    left: 100px;
    overflow: auto;
     bottom: 85px;
+    grid-auto-flow: column;
 }
 
 .education{

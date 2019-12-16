@@ -13,10 +13,6 @@ function NavBar() {
                         <il>GitHub</il>
                     </Nav.Link>
                     |
-                    <Nav.Link to='/linkedin'>
-                        <il>LinkedIn</il>
-                    </Nav.Link>
-                    |
                     <Link to='/resume'>
                         <il>Resume</il>
                     </Link>

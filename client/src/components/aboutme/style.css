@@ -1,12 +1,16 @@
 .about{
-    width: 70vw;
-    margin: auto;
+    display: grid;
+
+}
+
+.about > div{
+    padding: 2em;
 }
 
 .me{
     width: 40vw;
     margin: auto;
-    
+    grid-column: auto;
 }
 
 
@@ -16,7 +20,6 @@ img{
     width: 400px;
     margin: auto;
     position: absolute;
-    padding: 15px;
     top:100px;
     left: 150px;
 }
