@@ -1,12 +1,12 @@
 import React from 'react';
 import './style.css';
-import Image from 'react-bootstrap/Image'
+import Image from 'react-bootstrap/Image';
 import mongodb from '../../images/mongodb.jpg';
 import express from '../../images/express.png';
 import js from '../../images/js.jpg';
 import react from '../../images/react.jpg';
 import node from '../../images/node.jpg';
-import mysql from '../../images/mysql.jpg'
+import mysql from '../../images/mysql.jpg';
 
     const Content = () => {
 

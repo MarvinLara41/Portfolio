@@ -30,7 +30,6 @@
 
 .work{
     position: absolute;
-    opacity: 80%;
     overflow: auto;
     bottom: 20vh;
     left: 35vw;
@@ -45,7 +44,7 @@
     width: 20vw;
     overflow: auto;
     left: 100px;
-    height: 50vh;
+    height: 42vh;
     bottom: 2%;
 }
 
