@@ -6,6 +6,7 @@ import express from '../../images/express.png';
 import js from '../../images/js.jpg';
 import react from '../../images/react.jpg';
 import node from '../../images/node.jpg';
+import mysql from '../../images/mysql.jpg'
 
     const Content = () => {
 
@@ -15,7 +16,7 @@ import node from '../../images/node.jpg';
         <div className="grid">
            
             <div> 
-                <h1><b>Marvin Lara</b></h1>
+                <h1 className="header"><b>Marvin Lara</b></h1>
                 <p className="para">
                 Hello my name is Marvin. I have a diverse set of skills that can be intergrated on the front-end or the back-end  in website development.</p>  
             </div>
@@ -27,6 +28,7 @@ import node from '../../images/node.jpg';
             <div className="react"><Image src={react} alt="react" roundedCircle className="react"/></div>
             <div className="node"><Image src={node} alt="node" roundedCircle className="node"/></div>
             <div className="js"><Image src={js} alt="js" roundedCircle className="js"/></div>
+            <div className="mysql"><Image src={mysql} alt="mysql" roundedCircle className="mysql"/></div>
         </div>
         
     </div> 

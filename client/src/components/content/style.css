@@ -1,22 +1,12 @@
 
-.grid{
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
-    width: 60vw;
-    background-size: cover;
-    align-items: center;
-}
-
-.grid > div{
-    padding: 2em;
-}
 
 .images{
-    width: 50 vw;
-    height: auto;
-    position: relative;
+    width: 70 vw;
+    position: absolute;
     opacity: 50%;
-    align-self: center;
+    bottom: 25%;
+    padding: 500px;
+    
 }
 
 
@@ -26,6 +16,7 @@
     width: 250px;
     height: 185px;
     position: absolute;
+    margin: 1em;
 }
 
 .express{
@@ -54,7 +45,6 @@
 }
 
 .js{
-
     bottom: 0 auto;
     left: 70%;
     width: 250px;
@@ -64,13 +54,28 @@
   
  
 .para{
-    margin: auto;
+    position: absolute;
+    left: 500px;
+    top: 20%;
     font-family: "Times New Roman", Times, serif;
     color: black;
     font-size: 22px;
     width: 40vw;
 } 
 
+.header{
+    position: absolute;
+    top: 10%;
+    left: 650px;
+}
 
 
+.mysql{
+    grid-auto-rows: 1fr;
+    bottom: 0;
+    left: 88%;
+    width: 250px;
+    height: 185px;
+    position: absolute;
+}
 
