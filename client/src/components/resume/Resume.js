@@ -5,8 +5,8 @@ import './style.css';
 function Resume() {
     return(
         <div className="grid"> 
-        <div className="section">
-        <div className="resume">
+        
+            <div className="resume">
            <h1 className="h1"> Marvin Lara</h1>
             <ul className="info">
                 <il>Union City, NJ 07087  </il>
@@ -17,14 +17,14 @@ function Resume() {
                 <br />
                 <il><b>GitHub:</b> https://github.com/MarvinLara41</il>
             </ul>
-        </div>
+            </div>
                 
-                <div className="summary">
+                 <div className="summary">
                     <h2 className="h2">Summary</h2>
                     <p className="summaryP">Full Stack Web  Developer with a background in Research and Development in Wet Chemistry. I am looking to obtain a position in an interactive environment that seeks an ambitious, self motivated individual, where  acquired skills and experience can be used toward continued growth and advancement. </p>
-                </div>
+                </div> 
 
-                <div className="tech">
+                 <div className="tech">
                     <h2>Technical Skills</h2>
                     <p>
                         <ul>
@@ -43,7 +43,7 @@ function Resume() {
                     </p>
                 </div>
                 <br />
-                <div className="projects">
+                 <div className="projects">
                     <h2 className="project">Projects</h2>
                         <p> 
                             <ul> 
@@ -54,7 +54,7 @@ function Resume() {
                                 <il><b>GitHub:</b>​https://github.com/MarvinLara41/TimeStamp/tree/master/timestamp</il> 
                             </ul>
                         </p>
-                </div>
+                </div> 
 
                 <div className="work">
                         <h2 >Work Exprerience</h2>
@@ -87,7 +87,7 @@ function Resume() {
                         </p>
                 </div>  
 
-                <div className="education">
+                 <div className="education">
                         <h2>Education</h2>
                         <p>
                             <ul>
@@ -100,15 +100,14 @@ function Resume() {
                                  ​<il><b>​Union City High School : Diploma:​</b> Union City, NJ  Graduated:​ June, 2013 </il>
                             </ul>
                         </p>
-                </div>
+                </div> 
 
-                <div className="file">
+                 <div className="file">
                         <h3>View Resume</h3>
                         <a href="https://docs.google.com/document/d/1JmiAdZbprHIwAqzuJB1N3w7Fe3rhv2wuVF2jerhAoOI/edit?usp=sharing">Click Here</a>
-                </div>
+                </div>  
             </div>
-        </div>
-       
+            
     )
 }
 

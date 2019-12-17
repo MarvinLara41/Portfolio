@@ -7,7 +7,7 @@
 }
 
 body{
-  background-image: url(/images/everest.png);
+  background-image: url(images/everest.png);
   background-size: cover;
   background-repeat: no-repeat;
 }

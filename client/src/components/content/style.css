@@ -1,42 +1,46 @@
 
 .grid{
     display: grid;
-    grid-template-rows:1fr 2fr;
-    margin: auto;
-    width: 70vw;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 60vw;
     background-size: cover;
+    align-items: center;
 }
 
 .grid > div{
     padding: 2em;
 }
 
+.images{
+    width: 50 vw;
+    height: auto;
+    position: relative;
+    opacity: 50%;
+    align-self: center;
+}
+
 
 .mongo{
-    bottom: 0;
+    bottom: 0 auto;
     left: 10%;
     width: 250px;
-    height: 200px;
-    opacity: 70%;
+    height: 185px;
     position: absolute;
 }
 
 .express{
-
     bottom: 0;
     left: 25%;
     width: 250px;
-    height: 200px;
-    opacity: 70%;
+    height: 185px;
     position: absolute;
 }
 
 .react{
-    bottom: 0;
+    bottom: 0 auto;
     left: 40%;
     width: 250px;
-    height: 200px;
-    opacity: 70%;
+    height: 185px;
     position: absolute;
 }
 
@@ -45,29 +49,25 @@
     bottom: 0;
     left: 55%;
     width: 250px;
-    height: 200px;
-    opacity: 70%;
+    height: 185px;
     position: absolute;
 }
 
 .js{
 
-    bottom: 0;
+    bottom: 0 auto;
     left: 70%;
     width: 250px;
-    height: 200px;
-    opacity: 70%;
+    height: 185px;
     position: absolute;
 }
-
-
+  
  
 .para{
     margin: auto;
     font-family: "Times New Roman", Times, serif;
     color: black;
     font-size: 22px;
-    align-items: center;
     width: 40vw;
 } 
 

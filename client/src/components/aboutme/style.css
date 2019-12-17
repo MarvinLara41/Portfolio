@@ -1,5 +1,7 @@
 .about{
     display: grid;
+    grid-template-columns: 2fr;
+    width: 60vw;
 
 }
 
@@ -10,7 +12,8 @@
 .me{
     width: 40vw;
     margin: auto;
-    grid-column: auto;
+    position: absolute;
+    right: 25vw;
 }
 
 
