@@ -34,7 +34,7 @@
     bottom: 20vh;
     left: 35vw;
     width: 30vw;
-    height: 45vh;
+    height: 39vh;
     background-color: white;
 }
 
@@ -58,6 +58,6 @@
 .file{
     width: 20vw;
     position: absolute;
-    bottom: 250px;
+    bottom: 220px;
     right: 100px;
 }  
