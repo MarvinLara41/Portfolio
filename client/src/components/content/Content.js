@@ -24,10 +24,15 @@ import mysql from '../../images/mysql.jpg'
         
         <div className="images">
             <div className="mongo"> <Image src={mongodb} alt="mongo" roundedCircle className="mongo"/></div>
+            <br />
             <div className="express"><Image src={express} alt="express" roundedCircle className="express"/></div>
+            <br />
             <div className="react"><Image src={react} alt="react" roundedCircle className="react"/></div>
+            <br />
             <div className="node"><Image src={node} alt="node" roundedCircle className="node"/></div>
+            <br />
             <div className="js"><Image src={js} alt="js" roundedCircle className="js"/></div>
+            <br />
             <div className="mysql"><Image src={mysql} alt="mysql" roundedCircle className="mysql"/></div>
         </div>
         
