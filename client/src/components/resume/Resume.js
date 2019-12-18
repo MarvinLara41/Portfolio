@@ -50,7 +50,7 @@ function Resume() {
                                 <br />
                                 <il><b>My Responsibilities:</b>  ​Set up server for a connection to front-end components. Assure all back-end REST API’s are properly connected to each component to render the correct data. Set up Mongo database  that is properly connected to the server. Deploy the application to Heroku and trouble-shoot any bugs.</il>
                                 <br />
-                                <il><b>GitHub:</b>​https://github.com/MarvinLara41/TimeStamp/tree/master/timestamp</il> 
+                                <b>GitHub:</b><a href="https://github.com/MarvinLara41/TimeStamp/tree/master/timestamp"> View Project</a>
                             </ul>
                         </p>
                 </div> 
@@ -59,25 +59,25 @@ function Resume() {
                         <h2 >Work Exprerience</h2>
                         <p className="exp">
                             <ul> 
-                                <il><b>Title:</b>​Package Handler (Seasonal)            November 2019- Present </il>
+                                <il><b>Title:</b>​Package Handler (Seasonal)          <b>Date:</b> November 2019- Present </il>
                                 <br />
-                                <il><b>Company Name:</b>UPS  Address: Secaucus, NJ </il>
+                                <il><b>Company Name:</b>Almonte LLC   <b>Address:</b> Hackensack, NJ </il>
                                 <br />
-                                <il><b>Role:</b>Work in a fast paced environment that requires the following, Scan each package to update customer on delivery status. Track the amount of packages loaded onto delivery truck. Place mis-sorted packages on their proper delivery route. Load packages onto the designated delivery truck. </il>
+                                <il><b>Role:</b>Load/unload packages onto the designated delivery truck. Track the amount of packages loaded onto delivery truck. Update customer on delivery status. Assure drivers are aware of their delivery routes. Track out-going / incoming deliveries.</il>
                             </ul>
                             <br />
                             <ul> 
-                                <il><b>Title:</b>​RD Lab Technician August 2015 - August 2019 </il>
+                                <il><b>Title:</b>​RD Lab Technician  <b>Date:</b>August 2015 - August 2019 </il>
                                 <br />
-                                <il><b>Company Name:</b>Kirker Enterprises  Address: Paterson, NJ </il>
+                                <il><b>Company Name:</b>Kirker Enterprises  <b>Address:</b> Paterson, NJ </il>
                                 <br />
                                 <il><b>Role:</b>Research various new raw materials for cogent advancements to improve formulas. Communicate with Lab peers daily  on useful techniques or raw materials that may benefit their projects. Plan and organize various projects to meet customer deadlines. Maintain lab book updated and well detailed on latest research results. Properly document COA, SDS, IFRA statements and other documents with Regulatory Department. Work on joint projects with the Marketing team to develop creative products to present to current and new customers. Update Lab Manager weekly on statuses of individual and group projects. Work with sister companies to evaluate their new materials that haven’t been put out into the market.</il>
                             </ul>
                             <br />
                             <ul> 
-                                <il><b>Title:</b>​Dairy Team Member           August 2013 - December 2017 </il>
+                                <il><b>Title:</b>​Dairy Team Member           <b>Date:</b>August 2013 - December 2017 </il>
                                 <br />
-                                <il><b>Company Name:</b>Whole Foods Market           Address: Edgewater, N</il>
+                                <il><b>Company Name:</b>Whole Foods Market           <b>Address:</b> Edgewater, NJ</il>
                                 <br />
                                 <il><b>Role:</b> ​Maintain dairy products in consistently filled. Properly rotate oldest dated products using the FIFO method. Keep a good customer relation and encourage upselling. Communicate with team members on daily tasks that need to be accomplished.  Use IRMA system to place orders, track losses, and view potential new products. Consistently check product dates to remove expired products.</il>
                             </ul>
