@@ -63,7 +63,7 @@ function Resume() {
                                 <br />
                                 <il><b>Company Name:</b>Almonte LLC   <b>Address:</b> Hackensack, NJ </il>
                                 <br />
-                                <il><b>Role:</b>Load/unload packages onto the designated delivery truck. Track the amount of packages loaded onto delivery truck. Update customer on delivery status. Assure drivers are aware of their delivery routes. Track out-going / incoming deliveries.</il>
+                                <il><b>Role:</b>Load/unload packages onto the designated delivery trucks. Track the amount of packages loaded onto delivery truck. Update customer on delivery status. Assure drivers are aware of their delivery routes. Track out-going / incoming deliveries.</il>
                             </ul>
                             <br />
                             <ul> 
