@@ -50,7 +50,6 @@ function Resume() {
                                 <br />
                                 <il><b>My Responsibilities:</b>  ​Set up server for a connection to front-end components. Assure all back-end REST API’s are properly connected to each component to render the correct data. Set up Mongo database  that is properly connected to the server. Deploy the application to Heroku and trouble-shoot any bugs.</il>
                                 <br />
-                                <b>GitHub:</b><a href="https://github.com/MarvinLara41/TimeStamp/tree/master/timestamp"> View Project</a>
                             </ul>
                         </p>
                 </div> 
@@ -100,11 +99,6 @@ function Resume() {
                             </ul>
                         </p>
                 </div> 
-
-                 <div className="file">
-                        <h3>View Resume</h3>
-                        <a href="https://docs.google.com/document/d/1JmiAdZbprHIwAqzuJB1N3w7Fe3rhv2wuVF2jerhAoOI/edit?usp=sharing">Click Here</a>
-                </div>  
             </div>
             
     )

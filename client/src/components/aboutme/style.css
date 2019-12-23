@@ -3,6 +3,7 @@
     position: relative;
     margin: auto;  
     align-self: center;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .photo{
@@ -14,7 +15,10 @@
     width: 30vw;
     position: absolute;
     right: 0;
-    padding: 1em
+    padding: 1em;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+
 }
 
 img{

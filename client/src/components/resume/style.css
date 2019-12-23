@@ -13,6 +13,7 @@
     position: absolute;
     align-self: center;
     left: 28vw;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .summary{
@@ -20,6 +21,7 @@
     width: 20vw;
     left: 50vw;
     top: 5vh;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .tech{
@@ -27,16 +29,18 @@
     width: 20vw;
     top: 10vh;
     left: 4%;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .work{
     position: absolute;
-    overflow: auto;
-    bottom: 20vh;
-    left: 35vw;
-    width: 30vw;
-    height: 39vh;
+    bottom: 10vh;
+    left: 30vw;
+    width: 40vw;
+    height: 52vh;
     background-color: white;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -47,18 +51,13 @@
     left: 100px;
     height: 44vh;
     bottom: 2%;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .education{
     position: absolute;
     width: 20vw;
-    height: 40vh;
+    height: 20vh;
     right: 5%;
+    font-family: 'Times New Roman', Times, serif;
 }
-
-.file{
-    width: 20vw;
-    position: absolute;
-    bottom: 220px;
-    right: 100px;
-}  

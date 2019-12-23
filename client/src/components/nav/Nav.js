@@ -20,6 +20,10 @@ function NavBar() {
                     <Link to='/aboutme'>
                         <il>AboutMe</il>
                     </Link>
+                    |
+                    <Nav.Link href='https://docs.google.com/document/d/1JmiAdZbprHIwAqzuJB1N3w7Fe3rhv2wuVF2jerhAoOI/edit?usp=sharing'>
+                        <il>Resume Link</il>
+                    </Nav.Link>
             
         </nav>
     )
