@@ -1,28 +1,23 @@
 .about{
-    display: grid;
-    grid-template-columns: 2fr;
     width: 60vw;
-
+    position: relative;
+    margin: auto;  
+    align-self: center;
 }
 
-.about > div{
-    padding: 2em;
-}
-
-.me{
-    width: 40vw;
-    margin: auto;
+.photo{
     position: absolute;
-    right: 25vw;
+    padding: 1em;
 }
 
-
+.paragraph{
+    width: 30vw;
+    position: absolute;
+    right: 0;
+    padding: 1em
+}
 
 img{
     height: 350px;
     width: 400px;
-    margin: auto;
-    position: absolute;
-    top:100px;
-    left: 150px;
-}
+} 

@@ -12,9 +12,7 @@ import mysql from '../../images/mysql.jpg';
 
 
     return(
-        
-        <div className="grid">
-           
+        <div>
             <div> 
                 <h1 className="header"><b>Marvin Lara</b></h1>
                 <p className="para">
@@ -35,8 +33,7 @@ import mysql from '../../images/mysql.jpg';
             <br />
             <div className="mysql"><Image src={mysql} alt="mysql" roundedCircle className="mysql"/></div>
         </div>
-        
-    </div> 
+    </div>
 )
 }
 

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MarvinLara41/Portfolio/issues"
   },
-  "homepage":"https://MarvinLara41.github.io/Portfolio/"
+  "homepage": "https://MarvinLara41.github.io/Portfolio/",
+  "dependencies": {
+    "react-particles-js": "^2.7.0"
+  }
 }

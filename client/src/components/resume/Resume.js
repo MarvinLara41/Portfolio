@@ -56,14 +56,14 @@ function Resume() {
                 </div> 
 
                 <div className="work">
-                        <h2 >Work Exprerience</h2>
+                        <h2 >Work Experience</h2>
                         <p className="exp">
                             <ul> 
                                 <il><b>Title:</b>​Package Handler (Seasonal)          <b>Date:</b> November 2019- Present </il>
                                 <br />
-                                <il><b>Company Name:</b>Almonte LLC   <b>Address:</b> Hackensack, NJ </il>
+                                <il><b>Company Name:</b>UPS   <b>Address:</b> Secaucus, NJ </il>
                                 <br />
-                                <il><b>Role:</b>Load/unload packages onto the designated delivery trucks. Track the amount of packages loaded onto delivery truck. Update customer on delivery status. Assure drivers are aware of their delivery routes. Track out-going / incoming deliveries.</il>
+                                <il><b>Role:</b>Load/unload packages onto the designated delivery trucks. Track the amount of packages loaded onto each delivery truck. Assure drivers are aware of their delivery routes. </il>
                             </ul>
                             <br />
                             <ul> 

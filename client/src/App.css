@@ -1,13 +1,22 @@
 .App {
   text-align: center;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-body{
-  background-image: url(images/everest.png);
+  background-image: url(images/bg.jpg);
+  background-position: center center;
   background-size: cover;
-  background-repeat: no-repeat;
+  position: relative;
+  top: 10;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
 }
+
+.particle{
+  position: absolute;
+  top: 10;
+  bottom: 0;
+  height: 88vh;
+  width: 100vw;
+  align-content: center;
+}
+
+
